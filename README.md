@@ -1,16 +1,12 @@
-<<<<<<< HEAD
-### ¸É»õ·ÖÏí(GankShare)
-=======
-### å¹²è´§åˆ†äº«(GankShare)
->>>>>>> origin/master
-
-#### Material designé£æ ¼å’ŒMVPç»“åˆçš„ gank.ioéå®˜æ–¹å®¢æˆ·ç«¯(Rxjava+Retrofit+Butterknife & MVP)
-#### æ¯å¤©åˆ†äº«ç¨‹åºçŒ¿æŠ€æœ¯å¹²è´§ï¼Œç¦åˆ©å¦¹å­å›¾åŠä¼‘é—²è§†é¢‘(å‘¨æœ«ä¸æ›´æ–°),å¹²è´§é›†ä¸­è¥éå®˜æ–¹å®¢æˆ·ç«¯ã€‚
-#### æ•°æ®æ¥æºï¼šä»£ç å®¶çš„å¹²è´§é›†ä¸­è¥ http://gank.io 
 
 
+## ¸É»õ·ÖÏí(GankShare)
 
-<<<<<<< HEAD
+#### Material design·ç¸ñºÍMVP½áºÏµÄ gank.io·Ç¹Ù·½¿Í»§¶Ë(Rxjava+Retrofit+Butterknife & MVP)
+#### Ã¿Ìì·ÖÏí³ÌĞòÔ³¼¼Êõ¸É»õ£¬¸£ÀûÃÃ×ÓÍ¼¼°ĞİÏĞÊÓÆµ(ÖÜÄ©²»¸üĞÂ),¸É»õ¼¯ÖĞÓª·Ç¹Ù·½¿Í»§¶Ë¡£
+#### Êı¾İÀ´Ô´£º´úÂë¼ÒµÄ¸É»õ¼¯ÖĞÓª http://gank.io 
+
+
 
 ### License
 ¡®¡®¡®
@@ -28,7 +24,7 @@ limitations under the License.
 
 ¡®¡®¡®
 =======
-### ä¸‹è½½åœ°å€
+### ÏÂÔØµØÖ·£º
 
 ### License
 -------
@@ -44,4 +40,4 @@ limitations under the License.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
->>>>>>> origin/master
+
