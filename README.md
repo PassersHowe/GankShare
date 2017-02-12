@@ -1,15 +1,15 @@
 
 
-## ¸É»õ·ÖÏí(GankShare)
+## å¹²è´§åˆ†äº«(GankShare)
 
-#### Material design·ç¸ñºÍMVP½áºÏµÄ gank.io·Ç¹Ù·½¿Í»§¶Ë(Rxjava+Retrofit+Butterknife & MVP)
-#### Ã¿Ìì·ÖÏí³ÌĞòÔ³¼¼Êõ¸É»õ£¬¸£ÀûÃÃ×ÓÍ¼¼°ĞİÏĞÊÓÆµ(ÖÜÄ©²»¸üĞÂ),¸É»õ¼¯ÖĞÓª·Ç¹Ù·½¿Í»§¶Ë¡£
-#### Êı¾İÀ´Ô´£º´úÂë¼ÒµÄ¸É»õ¼¯ÖĞÓª http://gank.io 
+#### Material designé£æ ¼å’ŒMVPç»“åˆçš„ gank.ioéå®˜æ–¹å®¢æˆ·ç«¯(Rxjava+Retrofit+Butterknife & MVP)
+#### æ¯å¤©åˆ†äº«ç¨‹åºçŒ¿æŠ€æœ¯å¹²è´§ï¼Œç¦åˆ©å¦¹å­å›¾åŠä¼‘é—²è§†é¢‘(å‘¨æœ«ä¸æ›´æ–°),å¹²è´§é›†ä¸­è¥éå®˜æ–¹å®¢æˆ·ç«¯ã€‚
+#### æ•°æ®æ¥æºï¼šä»£ç å®¶çš„å¹²è´§é›†ä¸­è¥ http://gank.io 
 
 
 
 ### License
-¡®¡®¡®
+'''
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
@@ -22,9 +22,9 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-¡®¡®¡®
+'''
 =======
-### ÏÂÔØµØÖ·£º
+### ä¸‹è½½åœ°å€ï¼š
 
 ### License
 -------
