@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">乾貨分享</string>
+
+    <string name="navigation_drawer_open">打開抽屜菜單</string>
+    <string name="navigation_drawer_close">關閉抽屜菜單</string>
+
+    <string name="action_settings">設置</string>
+    <string name="not_data_text">( ┬＿┬ )沒有數據</string>
+    <string name="load_error">"加載失敗，再試試T_T"</string>
+
+    <string name="failed_connect_server">服務器連接失敗，請稍候</string>
+    <string name="not_find_history">沒有歷史數據</string>
+    <string name="Email"> PassersHowe@163.com</string>
+    <string name="developer"> 洪俊豪(PassersHowe)</string>
+    <!-- 菜單 -->
+    <string name="menu_all">精彩推薦</string>
+    <string name="menu_welfare">福利</string>
+    <string name="menu_expand">拓展資源</string>
+    <string name="menu_foreend">前端</string>
+    <string name="menu_rest">休閒視頻</string>
+    <string name="menu_recommed">瞎推薦</string>
+
+    <!-- 關於 -->
+    <string name="about">關於</string>
+    <string name="about_title">乾貨分享(GankShare)</string>
+    <string name="about_describe_one"> Material design風格和MVP結合的 gank.io非官方客戶端(Rxjava+Retrofit+Butterknife or MVP)</string>
+    <string name="about_describe_two">每天分享程序猿技術乾貨，福利妹子圖及休閒視頻(週末不更新),乾貨集中營非官方客戶端</string>
+    <string name="about_describe_three">數據來源：代碼家的乾貨集中營 http://gank.io </string>
+    <string name="about_describe_four">項目地址：https://github.com/PassersHowe/GankShare</string>
+    <string name="about_developer">開發者：洪俊豪(PassersHowe)</string>
+
+</resources>

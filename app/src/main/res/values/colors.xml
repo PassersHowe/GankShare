@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="item_desc">#ce000000</color>
+    <color name="item_text">#fbffff</color>
+
+    <color name="base_btn_white_text">#ffffff</color>
+
+
+    <color name="type_android">#64d23e</color>
+    <color name="type_app">#ea893f</color>
+    <color name="type_iOS">#fce72f</color>
+    <color name="type_expand">#6881a1</color>
+    <color name="type_foreend">#462aae</color>
+    <color name="type_rest">#2dbfba</color>
+    <color name="type_welfare">#b52dbf</color>
+    <color name="type_recommend">#1a733e</color>
+
+    <color name="source_web">#2a2b2b</color>
+    <color name="source_chrome">#d5ef1414</color>
+
+    <color name="item_click_pressed">#f53694ff</color>
+    <color name="item_click_activated">#2f61f4</color>
+    <color name="card_background">#f9fafd</color>
+</resources>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/GankShare.Card"
+      android:layout_margin="4dp"
+    android:background="@color/card_background"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:background="@drawable/selector_item_click"
+        >
+        <!--标题-->
+        <TextView
+            android:id="@+id/history_item_desc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:gravity="top|start"
+            android:lineSpacingExtra="2dp"
+            android:maxLines="2"
+            android:textColor="@color/item_desc"
+            android:textSize="18sp"
+            tools:ignore="HardcodedText"/>
+
+        <!--发布者-->
+        <TextView
+            android:id="@+id/history_item_who"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/history_item_desc"
+            android:padding="15dp"
+            tools:ignore="HardcodedText"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/history_item_who"
+            android:orientation="horizontal">
+            <!--来源-->
+            <TextView
+                android:id="@+id/history_item_source"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_item_source"
+                android:textColor="@color/item_text"
+                tools:ignore="HardcodedText"/>
+            <!--类型-->
+            <TextView
+                android:id="@+id/history_item_type"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:textColor="@color/item_text"
+                android:background="@drawable/bg_item_type"
+
+                tools:ignore="HardcodedText,RtlHardcoded"/>
+        </LinearLayout>
+        <!--时间-->
+        <TextView
+            android:id="@+id/history_item_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/history_item_who"
+
+            tools:ignore="HardcodedText,RtlHardcoded"/>
+    </RelativeLayout>
+</android.support.v7.widget.CardView>
+

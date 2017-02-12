@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/about_title"
+    android:layout_centerHorizontal="true"
+    android:padding="10dp"
+    android:id="@+id/about_title"
+    android:textSize="18sp"
+    />
+
+    <TextView
+        android:id="@+id/about_describe_one"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/about_title"
+        android:padding="10dp"
+        android:text="@string/about_describe_one"
+        />
+    <TextView
+        android:id="@+id/about_describe_two"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/about_describe_one"
+        android:padding="10dp"
+        android:text="@string/about_describe_two"
+        />
+    <TextView
+        android:id="@+id/about_describe_three"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_below="@+id/about_describe_two"
+        android:padding="10dp"
+        android:text="@string/about_describe_three"
+        />
+
+    <TextView
+        android:id="@+id/about_describe_four"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_below="@+id/about_describe_three"
+        android:padding="10dp"
+        android:text="@string/about_describe_four"
+        />
+    <TextView
+        android:id="@+id/about_developer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_below="@+id/about_describe_four"
+        android:padding="10dp"
+        android:text="@string/about_developer"
+        />
+</RelativeLayout>

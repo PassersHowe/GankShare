@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_all"
+            android:icon="@drawable/ic_whatshot_black_24dp"
+            android:title="@string/menu_all"/>
+
+        <item
+            android:id="@+id/nav_welfare"
+            android:icon="@drawable/ic_card_giftcard_black_24dp"
+            android:title="@string/menu_welfare"/>
+        <item
+            android:id="@+id/nav_android"
+            android:icon="@drawable/ic_android_black_24dp"
+            android:title="Android"/>
+        <item
+            android:id="@+id/nav_ios"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="IOS"/>
+        <item
+            android:id="@+id/nav_expand"
+            android:icon="@drawable/ic_bubble_chart_black_24dp"
+            android:title="@string/menu_expand"/>
+        <item
+            android:id="@+id/nav_foreend"
+            android:icon="@drawable/js"
+            android:title="@string/menu_foreend"/>
+        <item
+            android:id="@+id/nav_rest"
+            android:icon="@drawable/ic_video_library_black_24dp"
+            android:title="@string/menu_rest"/>
+        <item
+            android:id="@+id/nav_recommed"
+            android:icon="@drawable/ic_share_black_24dp"
+            android:title="@string/menu_recommed"/>
+        <item
+            android:id="@+id/nav_app"
+            android:icon="@drawable/ic_apps_black_24dp"
+            android:title="App"/>
+
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item android:title="@string/about">
+            <menu>
+                <item
+                    android:id="@+id/nav_about"
+                    android:icon="@drawable/ic_fingerprint_black_24dp"
+                    android:title="@string/about"/>
+            </menu>
+        </item>
+    </group>
+
+</menu>

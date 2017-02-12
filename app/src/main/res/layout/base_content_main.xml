@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.passershowe.gank.ui.allmain.AllMainActivity"
+   >
+<android.support.v4.widget.SwipeRefreshLayout
+    android:id="@+id/base_swipe_refresh"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    tools:layout_editor_absoluteY="0dp"
+    tools:layout_editor_absoluteX="8dp">
+   <android.support.v7.widget.RecyclerView
+       android:id="@+id/base_recycler"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content">
+   </android.support.v7.widget.RecyclerView>
+</android.support.v4.widget.SwipeRefreshLayout>
+   <TextView
+       android:id="@+id/base_not_data_text"
+       android:layout_width="0dp"
+       android:text="@string/not_data_text"
+       android:textSize="20sp"
+       android:gravity="center_horizontal|center_vertical"
+       android:layout_height="0dp"
+       tools:ignore="HardcodedText"
+       tools:layout_editor_absoluteY="8dp"
+       tools:layout_editor_absoluteX="8dp"/>
+
+</android.support.constraint.ConstraintLayout>

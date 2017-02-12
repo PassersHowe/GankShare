@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:padding="5dp"
+              android:orientation="vertical">
+
+    <DatePicker
+        android:layout_width="wrap_content"
+        android:id="@+id/history_date"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"></DatePicker>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/histoy_sure_btn"
+        android:background="@color/colorPrimary"
+        android:textColor="@color/base_btn_white_text"
+        android:text="确定"
+        android:layout_gravity="center"
+        tools:ignore="HardcodedText" />
+</LinearLayout>

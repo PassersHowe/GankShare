@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">干货分享</string>
+
+    <string name="navigation_drawer_open">打开抽屉菜单</string>
+    <string name="navigation_drawer_close">关闭抽屉菜单</string>
+
+    <string name="action_settings">设置</string>
+    <string name="not_data_text">( ┬＿┬ )没有数据</string>
+    <string name="load_error">"加载失败，再试试T_T"</string>
+
+    <string name="failed_connect_server">服务器连接失败,请稍候</string>
+    <string name="not_find_history">没有历史数据</string>
+    <string name="Email"> PassersHowe@163.com</string>
+    <string name="developer"> 洪俊豪(PassersHowe)</string>
+
+    <!-- 菜单 -->
+    <string name="menu_all">精彩推荐</string>
+    <string name="menu_welfare">福利</string>
+    <string name="menu_expand">拓展资源</string>
+    <string name="menu_foreend">前端</string>
+    <string name="menu_rest">休闲视频</string>
+    <string name="menu_recommed">瞎推荐</string>
+
+    <!-- 关于 -->
+    <string name="about">关于</string>
+    <string name="about_title">干货分享(GankShare)</string>
+    <string name="about_describe_one"> Material design风格和MVP结合的 gank.io非官方客户端(Rxjava+Retrofit+Butterknife or MVP)</string>
+    <string name="about_describe_two">每天分享程序猿技术干货，福利妹子图及休闲视频(周末不更新),干货集中营非官方客户端</string>
+    <string name="about_describe_three">数据来源：代码家的干货集中营 http://gank.io </string>
+    <string name="about_describe_four">项目地址：https://github.com/PassersHowe/GankShare</string>
+    <string name="about_developer">开发者：洪俊豪(PassersHowe)</string>
+
+
+
+
+</resources>

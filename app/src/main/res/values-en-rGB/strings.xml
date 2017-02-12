@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">GankShare</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="not_data_text">( ┬＿┬ ) No data</string>
+    <string name="load_error">"Load failed, try again  T_T"</string>
+
+    <string name="failed_connect_server">Server connection failed, please wait</string>
+    <string name="not_find_history">No historical data</string>
+    <string name="Email"> PassersHowe@163.com</string>
+    <string name="developer"> PassersHowe</string>
+    <!-- menu -->
+    <string name="menu_all">Wonderful recommend</string>
+    <string name="menu_welfare">Welfare</string>
+    <string name="menu_expand">Expanding</string>
+    <string name="menu_foreend">Fore-end</string>
+    <string name="menu_rest">Casual video</string>
+    <string name="menu_recommed">Blind recommendation</string>
+
+    <!-- About -->
+    <string name="about">About</string>
+    <string name="about_title">GankShare</string>
+    <string name="about_describe_one"> Material design style and MVP combined with gank.io unofficial client(Rxjava+Retrofit+Butterknife or MVP)</string>
+    <string name="about_describe_two">Every share program ape woman figure and welfare Technology dry cargo, casual video (weekend update), gank.io unofficial client</string>
+    <string name="about_describe_three">Data source: gank.io by daimajia  http://gank.io </string>
+    <string name="about_describe_four">Project address：https://github.com/PassersHowe/GankShare</string>
+    <string name="about_developer">Developer：PassersHowe</string>
+</resources>
