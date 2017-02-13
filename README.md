@@ -7,7 +7,7 @@
 #### 数据来源：代码家的干货集中营 http://gank.io 
 
 
-### 下载地址： http://fir.im/GankShare
+### 下载地址：  - [干货分享](http://fir.im/GankShare)
 
 ### 预览
 
