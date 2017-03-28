@@ -11,8 +11,7 @@
 - [干货分享](http://fir.im/GankShare)
 
 ### 预览
-![gank.io](https://raw.githubusercontent.com/PassersHowe/GankShare/master/art/gankshare_01.png) ![gank.io](https://raw.githubusercontent.com/PassersHowe/GankShare/master/art/gankshare_02.png)
-![gank.io](https://raw.githubusercontent.com/PassersHowe/GankShare/master/art/gankshare_03.png) ![gank.io](https://raw.githubusercontent.com/PassersHowe/GankShare/master/art/gankshare_04.png)
+
 
 ### License
 -------
